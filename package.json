@@ -1,0 +1,15 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "Example app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "typescript": "^3.9.7"
+  }
+}
